@@ -1,25 +1,10 @@
 {
     "name": "webmiracle/nova-page",
-    "description": "Static pages content management for Laravel Nova",
+    "description": "Static pages for Laravel Nova",
     "license": "MIT",
     "keywords": [
         "laravel",
-        "nova",
-        "cms",
-        "page",
-        "content",
-        "wysiwyg",
-        "flatfile"
-    ],
-    "authors": [
-        {
-            "name": "Toon Van den Bos",
-            "email": "toon@whitecube.be"
-        },
-        {
-            "name": "Adrien Leloup",
-            "email": "adrien@whitecube.be"
-        }
+        "nova"
     ],
     "repositories": [
         {
